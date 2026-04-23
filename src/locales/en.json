@@ -1,0 +1,51 @@
+{
+  "header": {
+    "collections": "Collections",
+    "about": "About",
+    "contact": "Contact",
+    "track_order": "Track Order",
+    "workshops": "Workshops",
+    "design_bouquet": "Start Designing →",
+    "search_placeholder": "Search for your perfect bouquet...",
+    "cart_title": "Your Selection",
+    "free_shipping_away": "You're {{amount}}€ away from free shipping!"
+  },
+  "hero": {
+    "title": "Premium Floral Design",
+    "subtitle": "From Prague with Love",
+    "cta": "Explore Collections"
+  },
+  "product": {
+    "add_to_cart": "Add to Cart",
+    "view_ar": "View in Your Room (AR)",
+    "care_instructions": "View Flower Care Instructions",
+    "subscription_save": "Subscribe & Save 10%",
+    "one_time": "One-time Purchase",
+    "delivery_date": "Delivery Date & Time",
+    "size": "Select Size",
+    "wrapping": "Wrapping Color",
+    "perfect_pairings": "Perfect Pairings",
+    "gift_message": "Gift Message"
+  },
+  "quiz": {
+    "cta": "Find the Perfect Gift →",
+    "title": "Gift Recommendation Engine"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "customers": "Customers",
+    "revenue": "Revenue"
+  },
+  "home": {
+    "hero_title": "Bespoke Bouquets Delivered",
+    "hero_subtitle": "Original floral arrangements and boxes delivered across the Czech Republic.",
+    "presentation_title": "The Art of Presentation",
+    "presentation_text": "Every day fresh flowers with unique paper wrapping. Our signature wrapping paper doesn't just protect the blooms; it elevates them into a luxurious masterpiece ready to take your breath away.",
+    "collections_title": "Our Collections",
+    "collections_subtitle": "Discover our hand-picked collection of fresh seasonal flowers.",
+    "workshop_title": "Learn from Master Florists",
+    "workshop_text": "Join us for an evening of champagne, creativity, and the finest seasonal blooms. Discover the secrets behind our most sought-after arrangements alongside our lead designers."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "header": {
+    "collections": "Kolekce",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "track_order": "Sledovat objednávku",
+    "workshops": "Workshopy",
+    "design_bouquet": "Navrhnout kytici →",
+    "search_placeholder": "Hledat vaši dokonalou kytici...",
+    "cart_title": "Váš výběr",
+    "free_shipping_away": "Chybí vám {{amount}} € k dopravě zdarma!"
+  },
+  "hero": {
+    "title": "Prémiový květinový design",
+    "subtitle": "Z Prahy s láskou",
+    "cta": "Prozkoumat kolekce"
+  },
+  "product": {
+    "add_to_cart": "Přidat do košíku",
+    "view_ar": "Zobrazit u vás (AR)",
+    "care_instructions": "Návod na péči o květiny",
+    "subscription_save": "Předplatit a ušetřit 10 %",
+    "one_time": "Jednorázový nákup",
+    "delivery_date": "Datum a čas doručení",
+    "size": "Vyberte velikost",
+    "wrapping": "Barva balení",
+    "perfect_pairings": "Dokonalé doplňky",
+    "gift_message": "Vzkaz k dárku"
+  },
+  "quiz": {
+    "cta": "Najít perfektní dárek →",
+    "title": "Průvodce výběrem dárku"
+  },
+  "admin": {
+    "dashboard": "Nástěnka",
+    "products": "Produkty",
+    "orders": "Objednávky",
+    "customers": "Zákazníci",
+    "revenue": "Tržby"
+  },
+  "home": {
+    "hero_title": "Vázané kytice až k vám domů",
+    "hero_subtitle": "Originálně vázané kytice a květinové boxy k odeslání po celé ČR.",
+    "presentation_title": "Umění prezentace",
+    "presentation_text": "Každý den čerstvé květiny s jedinečným paper wrappingem. Náš signaturní balicí papír nejen chrání květy; povyšuje je na luxusní mistrovské dílo připravené vám vyrazit dech.",
+    "collections_title": "Naše kolekce",
+    "collections_subtitle": "Objevte naši pečlivě vybranou kolekci čerstvých sezónních květin.",
+    "workshop_title": "Učte se od mistrů floristů",
+    "workshop_text": "Přidejte se k nám na večer plný šampaňského, kreativity a těch nejlepších sezónních květů. Odhalte tajemství našich nejžádanějších vazeb po boku našich hlavních designérů."
+  }
+}
