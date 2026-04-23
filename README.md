@@ -23,9 +23,6 @@ A state-of-the-art e-commerce platform for Prague's finest flower shop, built wi
 ### 🏫 Floral Workshops
 ![Workshops](./proposal_screenshots/03_workshops.png)
 
-### 🎁 Gift Finder Quiz
-![Gift Finder](./proposal_screenshots/04_gift_finder.png)
-
 ### 🛒 Seamless Checkout
 ![Checkout](./proposal_screenshots/05_checkout.png)
 
@@ -54,4 +51,4 @@ A state-of-the-art e-commerce platform for Prague's finest flower shop, built wi
    ```
 
 ---
-Developed with ❤️ by [Emin Aydin](https://github.com/eminaydin19)
+Developed by [Emin Aydin](https://github.com/eminaydin19)
