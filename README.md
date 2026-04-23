@@ -1,16 +1,57 @@
-# React + Vite
+# 🌸 Květiny Maják - Premium Flower Shop Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A state-of-the-art e-commerce platform for Prague's finest flower shop, built with React, Vite, and modern web technologies. This project transforms the traditional floral shopping experience into a cinematic, high-performance digital journey.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Cinematic UX**: High-end animations and smooth transitions using custom scroll reveal hooks and modern CSS.
+- **Dynamic Product Experience**: Real-time updates for flower arrangements, colors, and sizes.
+- **Interactive Workshops**: A dedicated space for floral arrangement classes and community events.
+- **AI-Powered Gift Finder**: A gamified quiz to help customers find the perfect bouquet for any occasion.
+- **Multi-language Support**: Full localization for English and Czech (i18next).
+- **Sound-Enhanced UI**: Subtle auditory feedback for a more immersive and premium user experience.
+- **Premium Admin Dashboard**: Full control over products, orders, and customer data.
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🏠 Cinematic Homepage
+![Homepage](./proposal_screenshots/01_homepage.png)
 
-## Expanding the ESLint configuration
+### 💐 Product Detail & Customization
+![Product Detail](./proposal_screenshots/02_product_detail.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏫 Floral Workshops
+![Workshops](./proposal_screenshots/03_workshops.png)
+
+### 🎁 Gift Finder Quiz
+![Gift Finder](./proposal_screenshots/04_gift_finder.png)
+
+### 🛒 Seamless Checkout
+![Checkout](./proposal_screenshots/05_checkout.png)
+
+## 🛠 Tech Stack
+
+- **Frontend**: React 18, Vite
+- **Styling**: Vanilla CSS (Premium Custom Design System)
+- **Animations**: Custom ScrollReveal Hooks, CSS Transitions
+- **State Management**: React Hooks, Context API
+- **Internationalization**: i18next
+- **Routing**: React Router v6
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/eminaydin19/flower-shop-website.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+---
+Developed with ❤️ by [Emin Aydin](https://github.com/eminaydin19)
